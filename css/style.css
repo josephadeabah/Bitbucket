@@ -24,7 +24,7 @@ li.ptRight {
 }
 
 li.ptRight:nth-last-child(2) {
-  margin-right: 385px;
+  margin-right: 280px;
 }
 
 li.ptRight:nth-last-child(2) a {
@@ -57,7 +57,7 @@ li a {
 }
 
 .ptLeft:first-child{
-  margin-left: 350px;
+  margin-left: 180px;
 }
 
 div.container {
@@ -93,7 +93,7 @@ div.container .box {
 .box .center{
 margin: 0;
 position: absolute;
-top: 30%;
+top: 45%;
 left: 50%;
 }
 
